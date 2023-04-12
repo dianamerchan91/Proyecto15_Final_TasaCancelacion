@@ -1,6 +1,6 @@
 # Modelo de aprendizaje automático que pronostica la tasa de cancelación de clientes para el operador de telecomunicaciones Interconnect 
 
-## Introducción
+### Introducción
 
 Interconnet es un operador de telecomunicaciones que proporciona diferentes servicios a sus clientes, destacándose principalmente por sus planes de internet y comunicación por teléfono fijo a través de la conexión a varias líneas. Además de esto, los usuarios pueden aprovechar otros beneficios como seguridad en línea, almacenamiento de archivos en la nube, backup de datos, línea de soporte técnico, streaming de TV y películas. Por otro lado, la clientela puede elegir entre un pago mensual o firmar un contrato de 1 o 2 años. Puede utilizar varios métodos de pago y recibir una factura electrónica después de una transacción.
 
